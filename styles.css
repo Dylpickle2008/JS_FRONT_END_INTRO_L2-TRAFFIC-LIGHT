@@ -36,3 +36,8 @@ body {
     width: 65px;
     margin: 5px;
   }
+
+.header {
+   text-align: center;
+   color: purple; 
+}
